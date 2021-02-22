@@ -1,7 +1,7 @@
 # traffic-visualization
 Visualizing traffic trends in South Australia with python.
 
-Visualizations were generated using Python with Anaconda Notebook. Relevant workbooks are included.
+Visualizations were generated using Python with Anaconda Notebook. Relevant files are included.
 Some of the data used to generate the offense category graphs was exported to excel and various rows were combined using the add function. This is reflected in the names.csv and names_updated.csv files.
 
 The unprocessed datasets are not included due to size, but can be found on Google Drive.
